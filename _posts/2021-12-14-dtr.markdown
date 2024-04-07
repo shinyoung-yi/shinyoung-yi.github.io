@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Differentiable Transient Rendering"
+date:   2021-12-14 00:00:00 +00:00
+image: /images/2021-dtr.jpg
+categories: research
+author: "Shinyoung Yi"
+authors: "<strong>Shinyoung Yi</strong>, Donggun Kim, Kiseok Choi, Adrian Jarabo, Diego Gutierrez, Min H. Kim"
+venue: SIGGRAPH Asia (ACM Trans. Graph.)
+projectpage: https://vclab.kaist.ac.kr/siggraphasia2021/index.html
+paper: https://dl.acm.org/doi/pdf/10.1145/3478513.3480498
+code: https://github.com/KAIST-VCLAB/dtransient-rendering
+---
+The first differentiable transient rendering.
