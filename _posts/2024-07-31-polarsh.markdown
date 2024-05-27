@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Spin-Weighted Spherical Harmonics for Polarized Light Transport"
+date:   2024-07-31 00:00:00 +00:00
+image: /images/2024-polarsh.png
+categories: research
+author: "Shinyoung Yi"
+authors: "<strong>Shinyoung Yi</strong>, Donggun Kim, Jiwoong Na, Xin Tong, Min H. Kim"
+venue: SIGGRAPH (ACM Trans. Graph.)
+projectpage: https://vclab.kaist.ac.kr/siggraph2024/index.html
+paper: https://vclab.kaist.ac.kr/siggraph2024/polar-harmonics-main.pdf # TODO: update to dl.acm...
+code: https://github.com/KAIST-VCLAB/polar-harmonics
+---
+A unified theory of spin-0 (scalar) and spin-2 spherical harmonics for a frequency domain analysis of polarized light transport.
