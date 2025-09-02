@@ -2,15 +2,45 @@
 
 Personal website of Shinyoung Yi.
 
-This repo is built upon [this repository](https://github.com/leonidk/leonidk.github.io/tree/master), which is based on [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Jon Barron's website](https://jonbarron.info/).
+This repo is built upon [this repository](https://github.com/leonidk/leonidk.github.io/tree/master), which is based on [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Jon Barron&#39;s website](https://jonbarron.info/).
 
+## ## Installation of Dependencies
+
+https://jekyllrb.com/docs/installation/
+
+### MacOS
+
+* **A troubleshooting 1**
+
+When I tried to:
+
+```
+ruby-install ruby 3.4.1
+```
+
+Some error about C compiling...
+
+```
+C compiler cannot create
+(...)
+!!! Configuration of ruby 3.4.1 failed!
+
+```
+
+Refernce: https://github.com/rbenv/rbenv/issues/440
+
+I solved by:
+
+```
+CC=gcc ruby-install ruby 3.4.1
+```
 
 
 ## Build
 
 At the root directory `<your_path>/shinyoung-yi.github.io`,
 
-```sh 
+```sh
 jekyll serve
 ```
 
@@ -27,12 +57,9 @@ Then Jekyll will show a server address for the rendered page. e.g.,
 
 Whenever you edit the source code and refresh the rendered page, (e.g. `http://127.0.0.1:4000`) the edited result will be automatically rendered.
 
-
-
 ## Edit
 
 ### Modifiable files
 
 * `_layouts/`
-
 * `tn/images`
