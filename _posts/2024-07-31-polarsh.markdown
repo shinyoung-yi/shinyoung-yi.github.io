@@ -8,7 +8,7 @@ author: "Shinyoung Yi"
 authors: "<strong>Shinyoung Yi</strong>, Donggun Kim, Jiwoong Na, Xin Tong, Min H. Kim"
 venue: SIGGRAPH (ACM Trans. Graph.)
 projectpage: https://vclab.kaist.ac.kr/siggraph2024/index.html
-paper: https://vclab.kaist.ac.kr/siggraph2024/polar-harmonics-main.pdf # TODO: update to dl.acm...
-code: https://github.com/KAIST-VCLAB/polar-harmonics
+paper: https://dl.acm.org/doi/pdf/10.1145/3658139
+code: https://github.com/KAIST-VCLAB/polarized-spherical-harmonics
 ---
 A unified theory of spin-0 (scalar) and spin-2 spherical harmonics for a frequency domain analysis of polarized light transport.
